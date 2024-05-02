@@ -4,6 +4,6 @@
 - Deve calcular o valor total do carrinho quando estiver vazio
 - Deve calcular o valor total do carrinho com itens, sem desconto
 - Deve calcular o valor total do carrinho com itens e desconto de 5%
-- Verificar itens no carrinho
-- Vefificar se um determinado item está inserido no carrinho
+- Verificar a quantidade de itens no carrinho
+- Verificar se um determinado item está inserido no carrinho
 - e entre outros cenários.
